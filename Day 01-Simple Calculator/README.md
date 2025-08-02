@@ -56,6 +56,8 @@ Result: 1040.0
 
 ## 🌟 Motivation
 
-This is part of my 30-Day Java GitHub Challenge to build consistency, learn Git, and grow as a developer.
-
-
+This project is part of my **30-Day Java GitHub Challenge** to:
+- Build daily coding discipline
+- Learn Git and GitHub workflow
+- Strengthen Java fundamentals
+- Showcase my learning publicly
