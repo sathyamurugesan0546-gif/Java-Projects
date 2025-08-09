@@ -14,7 +14,7 @@ class Expense {
 
     @Override
     public String toString() {
-        return "Amount: ₹" + amount + " | Category: " + category + " | Description: " + description;
+        return "Amount: Rs " + amount + " | Category: " + category + " | Description: " + description;
     }
 }
 
@@ -36,7 +36,7 @@ public class Main {
 
             switch (choice) {
                 case 1:
-                    System.out.print("Enter amount: Rs  ");
+                    System.out.print("Enter amount: Rs ");
                     double amount = scanner.nextDouble();
                     scanner.nextLine();
 

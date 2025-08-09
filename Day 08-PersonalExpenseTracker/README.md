@@ -46,7 +46,7 @@ This project demonstrates **object-oriented programming** with a real-life use c
 3. View Total by Category
 4. Exit
 Choose an option: 1
-Enter amount: Rs250
+Enter amount: Rs 250
 Enter category (Food/Transport/Shopping/etc.): Food
 Enter description: Lunch with friends
 Expense added successfully!
