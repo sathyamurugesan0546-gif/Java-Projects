@@ -36,7 +36,7 @@ public class Main {
 
             switch (choice) {
                 case 1:
-                    System.out.print("Enter amount: Rs");
+                    System.out.print("Enter amount: Rs  ");
                     double amount = scanner.nextDouble();
                     scanner.nextLine();
 
@@ -81,7 +81,7 @@ public class Main {
                                     total += e.amount;
                                 }
                             }
-                            System.out.println(cat + ": ₹" + total);
+                            System.out.println(cat + ": Rs " + total);
                         }
                     }
                     break;
